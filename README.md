@@ -1,4 +1,4 @@
-# 🧠 World Layoffs EDA Project
+# 🧠 World Layoffs EDA Project - MySQL
 
 This project presents an end-to-end analysis of tech layoffs using SQL (MySQL). It includes data cleaning, exploratory queries, and business insights extracted from the dataset — all done directly in MySQL. The analysis focuses on understanding which companies, countries, and industries have been affected most by layoffs, and how funding plays a role in the layoffs.
 
