@@ -4,7 +4,7 @@ This project presents an end-to-end analysis of tech layoffs using SQL (MySQL). 
 
 ---
 
-## 📌 Objective
+📌 Objective
 To analyze a tech layoffs dataset and derive meaningful insights such as:
 📉 Total layoffs over time
 🌍 Top countries affected by layoffs
@@ -13,9 +13,7 @@ To analyze a tech layoffs dataset and derive meaningful insights such as:
 💰 Relation between funding and layoffs
 📈 Year-wise and stage-wise trends
 
----
-
-## 📁 Dataset Used
+ 📁 Dataset Used
 [Kaggle Dataset – Layoffs](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 layoffs.csv – Contains data about:
 Company name
@@ -25,23 +23,18 @@ total and percentage laid off
 Date of layoff
 Funds raised 
 
----
-
-## 🛠️ Tools & Skills Used
+🛠️ Tools & Skills Used
 🐬 MySQL – Querying, filtering, joining, aggregation
 🗂️ CSV Import into SQL
 📊 Data Aggregation & Grouping
 📅 Date Functions and Filtering
 
----
-
-## 📌 What Makes This Project Unique?
+📌 What Makes This Project Unique?
 ✅ Fully SQL-driven analysis
 ✅ Real-world layoffs dataset from Kaggle
 ✅ Business-focused insights based on global layoffs
 ✅ Clean and structured SQL queries
 
----
 
 🙋‍♂️ Author
 Rishikesh Mohite
