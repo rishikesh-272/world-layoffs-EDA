@@ -39,5 +39,6 @@ This project presents an end-to-end analysis of tech layoffs using SQL (MySQL). 
 - Rishikesh Mohite
 - 📧 [Email](rishikeshmohite82@gmail.com)
 - 🔗 [LinkedIn](www.linkedin.com/in/rishikeshmohite)
+- 💻 [View Project on GitHub](https://github.com/rishikesh-272/world-layoffs-EDA-MySQL)
 
 
